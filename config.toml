@@ -1,0 +1,4 @@
+baseURL = "https://poemsgoodfroplog.vercel.app"
+languageCode = "en-us"
+title = "Example Poems"
+theme = "tale-hugo-master"
